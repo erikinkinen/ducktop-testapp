@@ -9,7 +9,7 @@ Window {
     title: qsTr("Ducktop Testing Application")
     color: "black"
 
-    TextArea {
+    TextInput {
         text: qsTr("Hello World")
         anchors.fill: parent
         font.pixelSize: 36
